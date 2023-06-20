@@ -1,5 +1,5 @@
 
-<img src="https://github.com/robby7272/Mechatronics/assets/118023804/a017f47a-b4c2-44cc-8b21-3bcf02772a13" width="500" height="500">
+<img src="https://github.com/robby7272/Mechatronics/assets/118023804/a017f47a-b4c2-44cc-8b21-3bcf02772a13" width="500" height="700">
 
 ## Performance in UCSC Mechatronics competition
 
