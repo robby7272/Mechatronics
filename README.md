@@ -1,5 +1,5 @@
 
-![Final_Robot_Pic](https://github.com/robby7272/Mechatronics/assets/118023804/a017f47a-b4c2-44cc-8b21-3bcf02772a13 =250x250)
+<img src="[https://your-image-url.type](https://github.com/robby7272/Mechatronics/assets/118023804/a017f47a-b4c2-44cc-8b21-3bcf02772a13)" width="100" height="100">
 
 ## Performance in UCSC Mechatronics competition
 
